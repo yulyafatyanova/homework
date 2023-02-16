@@ -81,7 +81,7 @@ html, body {
  text-align: center;
 }
 #landing .title h1 {
- color: white
+ color: pink
  font-size: 35px;
  letter-spacing: 8px;
 }
@@ -90,7 +90,7 @@ html, body {
  padding: 6px;
  width: 820px;
  margin: 0 auto;
- text-align: center;
+ text-align: justify;
 }
 #landing .block-gray {
  background: #f2f2f2;
