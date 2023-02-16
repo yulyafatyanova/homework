@@ -33,7 +33,7 @@ html, body {
  font-size: 24px;
  font-weight: 400;
  text-transform: uppercase;
- color: white;
+ color: pink;
  padding: 0;
  margin: 0;
 }
@@ -42,7 +42,7 @@ html, body {
  font-size: 70px;
  letter-spacing: 10px;
  text-align: center;
- color: white;
+ color: pink;
  font-weight: 400;
  text-transform: uppercase;
  z-index: 10;
