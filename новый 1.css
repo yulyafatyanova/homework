@@ -148,7 +148,7 @@ html, body {
  background-position: top center;
 }
 #landing .line-break {
- background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
+ background: linear-gradient(60deg, #de7da7, #7da7de, #d8de7d);
  width: 100%;
  margin: 0 auto;
 }
