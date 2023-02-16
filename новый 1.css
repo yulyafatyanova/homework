@@ -72,7 +72,7 @@ html, body {
  font-family: 'Source Sans Pro', sans-serif;
 }
 .fl {
-	color #de7da7;
+	color #a644a88a;
 }
 #landing .title {
  background: pink;
@@ -81,18 +81,19 @@ html, body {
  text-align: center;
 }
 #landing .title h1 {
+ color: white
  font-size: 35px;
  letter-spacing: 8px;
 }
 #landing .block {
- background: white;
+ background: pink;
  padding: 6px;
  width: 820px;
  margin: 0 auto;
- text-align: justify;
+ text-align: center;
 }
 #landing .block-gray {
- background: pink;
+ background: #f2f2f2;
  padding: 6px;
 }
 #landing .section-overlay-mask {
@@ -146,12 +147,15 @@ html, body {
  background-repeat: no-repeat;
  background-position: top center;
 }
+#landing .line-break {
+    background: linear-gradient(85deg, #610080c4, #008aff, #8052c9d1);
+    width: 100%;
+    margin: 0 auto;
 @media screen and (max-width: 959px) and (min-width: 768px) {
  #flat .block {
   padding: 40px;
   width: 620px;
  }
-}
 @media screen and (max-width: 767px) {
  #flat .block {
   padding: 30px;
