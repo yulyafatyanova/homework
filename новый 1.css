@@ -148,7 +148,7 @@ html, body {
  background-position: top center;
 }
 #landing .line-break {
-    background: linear-gradient(85deg, #610080c4, #008aff, #8052c9d1);
+    background: linear-gradient(85deg, #de7da7, #7da7de, #d8de7d);
     width: 100%;
     margin: 0 auto;
 @media screen and (max-width: 959px) and (min-width: 768px) {
