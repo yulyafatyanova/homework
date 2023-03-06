@@ -29,7 +29,7 @@ html, body {
 }
 .landing {
 
-    position: relative;
+    position: center;
 
     background-color: transparent;
 
@@ -41,7 +41,7 @@ html, body {
 
     padding: 10px 0 0;
 
-    position: relative;
+    position: center;
 
 }
 
@@ -57,7 +57,7 @@ html, body {
 
     width: 100%;
 
-    text-align: right;
+    text-align: center;
 
 }
 
