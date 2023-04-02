@@ -55,7 +55,7 @@ header #circular-bg {
 
   height: 85vw;
 
-  background: CadetBlue;
+  background: #C71585;
 
   border-radius: 50%;
 
@@ -334,9 +334,9 @@ label {
 }
 .button1 {
 
-  background-color: #00cc99;
+  background-color: #c73080;
 
-  box-shadow: 0 0 10px 0 #00cc99 inset, 0 0 20px 2px #00cc99;
+  box-shadow: 0 0 10px 0 #c73080 inset, 0 0 20px 2px #c73080;
 
 }
 
@@ -344,9 +344,9 @@ label {
 
 .button2 {
 
-  background-color: #00cc99;
+  background-color: #c73080;
 
-  box-shadow: 0 0 10px 0 #00cc99 inset, 0 0 20px 2px #00cc99;
+  box-shadow: 0 0 10px 0 #c73080 inset, 0 0 20px 2px #c73080;
 
 }
 .switch {
