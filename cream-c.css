@@ -32,7 +32,7 @@ body {
 }
 header .info p {
 
-  position: relative;
+  position: center;
 
   margin: 0;
 
@@ -162,9 +162,9 @@ header #headline:before {
 
 header #headline:after {
 
-  content: "здесь текст постописания";
+  content: "мягкость";
 
-  position: absolute;
+  position: center;
 
   top: 120%;
 
