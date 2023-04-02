@@ -85,7 +85,7 @@ header #brand {
 
   font-weight: 700;
 
-  position: absolute;
+  position: center;
 
   left: 20vw;
 
@@ -96,7 +96,7 @@ header #brand:before {
 
   content: "";
 
-  position: absolute;
+  position: center;
 
   width: 110%;
 
